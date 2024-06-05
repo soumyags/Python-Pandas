@@ -38,5 +38,16 @@ Top 5 Cities with highest Sales:-
    2)Google Phone,USB-C Chatging cable --> 987
    3)Iphone,Wired Headphone --> 447
    4)Google Phone,Wired Headphone--414
-   Vereebadd phone, USB-C Charging -- 361
+  5)  Vereebadd phone, USB-C Charging -- 361
+
+     Which product is sold the most?
+
+     1) AAA Batteries
+     2) AA BAtteries
+     3)USB-C Chaging Cable
+     4)Lightening Charging Cable
+     5)Wired Headphone
+![image](https://github.com/soumyags/Python-Pandas/assets/132996114/644e171d-e325-4cac-bbf0-5c09270e8597)
+
+     
    
